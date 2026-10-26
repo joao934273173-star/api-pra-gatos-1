@@ -1,0 +1,1 @@
+<resources><style name="Theme.Decide" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#22B8B1</item></style></resources>
